@@ -1,5 +1,5 @@
 # Search Page Backend
-This is a Node.js project that provides the backend functionality for a search page. The search page allows users to input a keyword and retrieve relevant ads from a database. The search is conducted across the company name, primary text, headline, and description fields in a single query using the aggregate and unwind functions.
+This is a Node.js project that provides the backend functionality for a search page. The search page allows users to input a keyword and retrieve relevant ads from a database. The search is conducted across the company name, primary text, headline, and description fields in a single query using the aggregate functions.
 
 ## Installation
 1. Clone the repository to your local machine using git clone https://github.com/Abhishekfm/ad-search-backend
